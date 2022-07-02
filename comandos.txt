@@ -27,3 +27,5 @@
  "git remote add origin link_do_repositório_no_github" -> para escolher o repositório no github
 
  "git push origin nome_da_branch" -> para enviar os arquivos para o github
+
+ "git pull origin nome_da_branch" -> para pegar os arquivos que estão no github
