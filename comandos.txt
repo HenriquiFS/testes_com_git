@@ -44,6 +44,8 @@
 
  "git branch -D nome_da_nova_branch" -> deleta aquela branch
 
+ "git rm nome_do_arquivo" -> delete o arquivo especificado
+
  para mais informações: https://dzone.com/articles/top-20-git-commands-with-examples
 
  
