@@ -1,0 +1,22 @@
+
+ 1º Abra um terminal
+
+ 2º Selecione o diretório
+
+ 3º Use o comando "git" para iniciar o git no terminal
+
+ 4º Use "git init" para iniciar o git naquela pasta
+
+ Comandos:
+
+ "git status" -> mostra o status dos arquivos dentro do diretório
+
+ "git add nome_do_arquivo" -> adiciona o arquivo para a lista de arquivos a serem comitados
+
+ OBS: use "git add ." para adicionar todos os arquivos 
+
+ "git commit" -> para comitar as alterações
+
+ OBS: quando for comitar as alterações via abrir outro terminal, primeiro faça uma descrição, depois aperte Esc, digite :wq, e aperte Enter 
+
+ "git log" -> mostra o histórico de commits
