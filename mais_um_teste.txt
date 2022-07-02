@@ -1,2 +1,1 @@
-
- vc tbem pode usar -> git commit -m "descrição do commit"
+vc tbem pode usar -> git commit -m "descrição do commit"
