@@ -32,6 +32,18 @@
  
  "git clone chave_SSH" -> clona e baixa o repositório do github com essa chave
 
+ "git branch" -> mostra todas as branches to projeto
+
+ "git branch nome_da_nova_branch" -> cria uma nova branch
+
+ "git checkout nome_da_nova_branch" -> para mudar para outra branch
+
+ "git checkout código_de_alteração -- nome_do_arquivo" -> retorna o arquivo para a versão do código de alteração
+
+ "git merge nome_da_branch" -> junta a branch atual com a branch que você colocou depois do merge
+
+ "git branch -D nome_da_nova_branch" -> deleta aquela branch
+
  para mais informações: https://dzone.com/articles/top-20-git-commands-with-examples
 
  
