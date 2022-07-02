@@ -29,3 +29,5 @@
  "git push origin nome_da_branch" -> para enviar os arquivos para o github
 
  "git pull origin nome_da_branch" -> para pegar os arquivos que estão no github
+ 
+ "git clone chave_SSH" -> clona e baixa o repositório do github com essa chave
