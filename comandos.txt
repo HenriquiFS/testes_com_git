@@ -23,3 +23,7 @@
  "git log" -> mostra o histórico de commits
 
  "git diff nome_do_arquivo" -> mostra as alterações realizadas naquele arquivo, se ele ainda não foi comitado
+ 
+ "git remote add origin link_do_repositório_no_github" -> para escolher o repositório no github
+
+ "git push origin nome_da_branch" -> para enviar os arquivos para o github
