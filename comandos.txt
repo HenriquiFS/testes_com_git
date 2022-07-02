@@ -17,7 +17,7 @@
 
  "git commit" -> para comitar as alterações
 
- OBS: quando for comitar as alterações via abrir outro terminal, primeiro faça uma descrição, depois aperte Esc, digite :wq, e aperte Enter 
+ OBS: quando for comitar as alterações vai abrir outro terminal, primeiro faça uma descrição, depois aperte Esc, digite :wq, e aperte Enter 
       mas, existe um jeito mais fácil -> git commit -m "Descrição das alterações"
 
  "git log" -> mostra o histórico de commits
