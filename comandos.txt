@@ -17,7 +17,7 @@
 
  "git commit" -> para comitar as alterações
 
- OBS: quando for comitar as alterações via abrir outro terminal, primeiro faça uma descrição, depois aperte Esc, digite :wq, e aperte Enter 
+ OBS: quando for comitar as alterações vai abrir outro terminal, primeiro faça uma descrição, depois aperte Esc, digite :wq, e aperte Enter 
       mas, existe um jeito mais fácil -> git commit -m "Descrição das alterações"
 
  "git log" -> mostra o histórico de commits
@@ -29,5 +29,10 @@
  "git push origin nome_da_branch" -> para enviar os arquivos para o github
 
  "git pull origin nome_da_branch" -> para pegar os arquivos que estão no github
+<<<<<<< HEAD
 
  para mais informações: https://dzone.com/articles/top-20-git-commands-with-examples
+=======
+ 
+ "git clone chave_SSH" -> clona e baixa o repositório do github com essa chave
+>>>>>>> 001e733848217be5a1244391fc9d9198420e425b
