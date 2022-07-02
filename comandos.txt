@@ -29,3 +29,5 @@
  "git push origin nome_da_branch" -> para enviar os arquivos para o github
 
  "git pull origin nome_da_branch" -> para pegar os arquivos que estão no github
+
+ para mais informações: https://dzone.com/articles/top-20-git-commands-with-examples
